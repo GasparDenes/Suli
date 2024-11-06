@@ -1,0 +1,6 @@
+Y:\11.A\Gáspár Dénes\programozas\Befozes\bin\Debug\Útmutató.exe.config
+Y:\11.A\Gáspár Dénes\programozas\Befozes\bin\Debug\Útmutató.exe
+Y:\11.A\Gáspár Dénes\programozas\Befozes\bin\Debug\Útmutató.pdb
+Y:\11.A\Gáspár Dénes\programozas\Befozes\obj\Debug\Befozes.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\Befozes\obj\Debug\Útmutató.exe
+Y:\11.A\Gáspár Dénes\programozas\Befozes\obj\Debug\Útmutató.pdb
