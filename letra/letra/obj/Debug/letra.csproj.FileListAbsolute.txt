@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\letra\letra\bin\Debug\letra.exe.config
+Y:\11.A\Gáspár Dénes\programozas\letra\letra\bin\Debug\letra.exe
+Y:\11.A\Gáspár Dénes\programozas\letra\letra\bin\Debug\letra.pdb
+Y:\11.A\Gáspár Dénes\programozas\letra\letra\obj\Debug\letra.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\letra\letra\obj\Debug\letra.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\letra\letra\obj\Debug\letra.exe
+Y:\11.A\Gáspár Dénes\programozas\letra\letra\obj\Debug\letra.pdb

@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\kitalalo\kitalalo\bin\Debug\kitalalo.exe.config
+Y:\11.A\Gáspár Dénes\programozas\kitalalo\kitalalo\bin\Debug\kitalalo.exe
+Y:\11.A\Gáspár Dénes\programozas\kitalalo\kitalalo\bin\Debug\kitalalo.pdb
+Y:\11.A\Gáspár Dénes\programozas\kitalalo\kitalalo\obj\Debug\kitalalo.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\kitalalo\kitalalo\obj\Debug\kitalalo.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\kitalalo\kitalalo\obj\Debug\kitalalo.exe
+Y:\11.A\Gáspár Dénes\programozas\kitalalo\kitalalo\obj\Debug\kitalalo.pdb

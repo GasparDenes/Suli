@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\dolgozat\dolgozat\bin\Debug\dolgozat.exe.config
+Y:\11.A\Gáspár Dénes\programozas\dolgozat\dolgozat\bin\Debug\dolgozat.exe
+Y:\11.A\Gáspár Dénes\programozas\dolgozat\dolgozat\bin\Debug\dolgozat.pdb
+Y:\11.A\Gáspár Dénes\programozas\dolgozat\dolgozat\obj\Debug\dolgozat.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\dolgozat\dolgozat\obj\Debug\dolgozat.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\dolgozat\dolgozat\obj\Debug\dolgozat.exe
+Y:\11.A\Gáspár Dénes\programozas\dolgozat\dolgozat\obj\Debug\dolgozat.pdb

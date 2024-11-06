@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\Valami\Valami\bin\Debug\Valami.exe.config
+Y:\11.A\Gáspár Dénes\programozas\Valami\Valami\bin\Debug\Valami.exe
+Y:\11.A\Gáspár Dénes\programozas\Valami\Valami\bin\Debug\Valami.pdb
+Y:\11.A\Gáspár Dénes\programozas\Valami\Valami\obj\Debug\Valami.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\Valami\Valami\obj\Debug\Valami.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\Valami\Valami\obj\Debug\Valami.exe
+Y:\11.A\Gáspár Dénes\programozas\Valami\Valami\obj\Debug\Valami.pdb

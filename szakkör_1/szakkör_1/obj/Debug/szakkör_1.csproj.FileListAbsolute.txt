@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\szakkör_1\szakkör_1\bin\Debug\szakkör_1.exe.config
+Y:\11.A\Gáspár Dénes\programozas\szakkör_1\szakkör_1\bin\Debug\szakkör_1.exe
+Y:\11.A\Gáspár Dénes\programozas\szakkör_1\szakkör_1\bin\Debug\szakkör_1.pdb
+Y:\11.A\Gáspár Dénes\programozas\szakkör_1\szakkör_1\obj\Debug\szakkör_1.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\szakkör_1\szakkör_1\obj\Debug\szakkör_1.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\szakkör_1\szakkör_1\obj\Debug\szakkör_1.exe
+Y:\11.A\Gáspár Dénes\programozas\szakkör_1\szakkör_1\obj\Debug\szakkör_1.pdb

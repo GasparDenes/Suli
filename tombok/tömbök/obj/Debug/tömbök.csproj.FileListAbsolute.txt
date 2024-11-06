@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\tömbök\tömbök\bin\Debug\tömbök.exe.config
+Y:\11.A\Gáspár Dénes\programozas\tömbök\tömbök\bin\Debug\tömbök.exe
+Y:\11.A\Gáspár Dénes\programozas\tömbök\tömbök\bin\Debug\tömbök.pdb
+Y:\11.A\Gáspár Dénes\programozas\tömbök\tömbök\obj\Debug\tömbök.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\tömbök\tömbök\obj\Debug\tömbök.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\tömbök\tömbök\obj\Debug\tömbök.exe
+Y:\11.A\Gáspár Dénes\programozas\tömbök\tömbök\obj\Debug\tömbök.pdb

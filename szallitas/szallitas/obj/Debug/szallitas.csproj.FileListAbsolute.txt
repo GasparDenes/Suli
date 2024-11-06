@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\szallitas\szallitas\bin\Debug\szallitas.exe.config
+Y:\11.A\Gáspár Dénes\programozas\szallitas\szallitas\bin\Debug\szallitas.exe
+Y:\11.A\Gáspár Dénes\programozas\szallitas\szallitas\bin\Debug\szallitas.pdb
+Y:\11.A\Gáspár Dénes\programozas\szallitas\szallitas\obj\Debug\szallitas.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\szallitas\szallitas\obj\Debug\szallitas.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\szallitas\szallitas\obj\Debug\szallitas.exe
+Y:\11.A\Gáspár Dénes\programozas\szallitas\szallitas\obj\Debug\szallitas.pdb

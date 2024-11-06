@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\szep25\szep25\bin\Debug\szep25.exe.config
+Y:\11.A\Gáspár Dénes\programozas\szep25\szep25\bin\Debug\szep25.exe
+Y:\11.A\Gáspár Dénes\programozas\szep25\szep25\bin\Debug\szep25.pdb
+Y:\11.A\Gáspár Dénes\programozas\szep25\szep25\obj\Debug\szep25.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\szep25\szep25\obj\Debug\szep25.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\szep25\szep25\obj\Debug\szep25.exe
+Y:\11.A\Gáspár Dénes\programozas\szep25\szep25\obj\Debug\szep25.pdb

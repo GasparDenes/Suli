@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\szolanc\szolanc\bin\Debug\szolanc.exe.config
+Y:\11.A\Gáspár Dénes\programozas\szolanc\szolanc\bin\Debug\szolanc.exe
+Y:\11.A\Gáspár Dénes\programozas\szolanc\szolanc\bin\Debug\szolanc.pdb
+Y:\11.A\Gáspár Dénes\programozas\szolanc\szolanc\obj\Debug\szolanc.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\szolanc\szolanc\obj\Debug\szolanc.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\szolanc\szolanc\obj\Debug\szolanc.exe
+Y:\11.A\Gáspár Dénes\programozas\szolanc\szolanc\obj\Debug\szolanc.pdb

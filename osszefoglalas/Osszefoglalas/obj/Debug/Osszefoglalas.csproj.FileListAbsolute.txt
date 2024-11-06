@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\Osszefoglalas\Osszefoglalas\obj\Debug\Osszefoglalas.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\Osszefoglalas\Osszefoglalas\obj\Debug\Osszefoglalas.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\Osszefoglalas\Osszefoglalas\bin\Debug\Osszefoglalas.exe.config
+Y:\11.A\Gáspár Dénes\programozas\Osszefoglalas\Osszefoglalas\bin\Debug\Osszefoglalas.exe
+Y:\11.A\Gáspár Dénes\programozas\Osszefoglalas\Osszefoglalas\bin\Debug\Osszefoglalas.pdb
+Y:\11.A\Gáspár Dénes\programozas\Osszefoglalas\Osszefoglalas\obj\Debug\Osszefoglalas.exe
+Y:\11.A\Gáspár Dénes\programozas\Osszefoglalas\Osszefoglalas\obj\Debug\Osszefoglalas.pdb
