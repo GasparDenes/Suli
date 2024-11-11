@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\valasztas\valasztas\bin\Debug\valasztas.exe.config
+Y:\11.A\Gáspár Dénes\programozas\valasztas\valasztas\bin\Debug\valasztas.exe
+Y:\11.A\Gáspár Dénes\programozas\valasztas\valasztas\bin\Debug\valasztas.pdb
+Y:\11.A\Gáspár Dénes\programozas\valasztas\valasztas\obj\Debug\valasztas.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\valasztas\valasztas\obj\Debug\valasztas.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\valasztas\valasztas\obj\Debug\valasztas.exe
+Y:\11.A\Gáspár Dénes\programozas\valasztas\valasztas\obj\Debug\valasztas.pdb
