@@ -1,0 +1,7 @@
+Y:\11.A\Gáspár Dénes\programozas\Helsinki\bin\Debug\Helsinki.exe.config
+Y:\11.A\Gáspár Dénes\programozas\Helsinki\bin\Debug\Helsinki.exe
+Y:\11.A\Gáspár Dénes\programozas\Helsinki\bin\Debug\Helsinki.pdb
+Y:\11.A\Gáspár Dénes\programozas\Helsinki\obj\Debug\Helsinki.csproj.AssemblyReference.cache
+Y:\11.A\Gáspár Dénes\programozas\Helsinki\obj\Debug\Helsinki.csproj.CoreCompileInputs.cache
+Y:\11.A\Gáspár Dénes\programozas\Helsinki\obj\Debug\Helsinki.exe
+Y:\11.A\Gáspár Dénes\programozas\Helsinki\obj\Debug\Helsinki.pdb
